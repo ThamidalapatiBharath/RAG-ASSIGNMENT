@@ -1,6 +1,6 @@
 #  Local RAG System - Simple Guide
 
-A simple **Retrieval-Augmented Generation** system that answers questions about your PDF documents using local AI (no internet required, no costs).
+A simple **Retrieval-Augmented Generation** system that answers questions about your PDF documents using local AI.
 
 ---
 
