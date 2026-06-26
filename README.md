@@ -64,11 +64,11 @@ project/
 
 ##  Key Features
 
-✅ **100% Local** - No cloud, no API keys  
-✅ **Fast** - Answers in seconds  
-✅ **Accurate** - Cites sources  
-✅ **Easy** - Simple Python code  
-✅ **Private** - Your data stays with you  
+**100% Local** - No cloud, no API keys  
+**Fast** - Answers in seconds  
+**Accurate** - Cites sources  
+**Easy** - Simple Python code  
+**Private** - Your data stays with you  
 
 ---
 
