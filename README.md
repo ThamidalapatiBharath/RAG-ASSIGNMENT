@@ -14,7 +14,7 @@ A simple **Retrieval-Augmented Generation** system that answers questions about 
 
 ---
 
-## ⚡ Quick Start (5 minutes)
+##  Quick Start (5 minutes)
 
 ### 1. Install Ollama
 Download from [ollama.ai](https://ollama.ai)
