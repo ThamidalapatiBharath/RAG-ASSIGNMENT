@@ -1,16 +1,16 @@
-# 📚 Local RAG System - Simple Guide
+#  Local RAG System - Simple Guide
 
 A simple **Retrieval-Augmented Generation** system that answers questions about your PDF documents using local AI (no internet required, no costs).
 
 ---
 
-## 🚀 What It Does
+## What It Does
 
-1. **Loads your PDFs** 📄
-2. **Splits them into chunks** ✂️
-3. **Creates searchable embeddings** 🧠
-4. **Answers your questions** 💬
-5. **Shows the source documents** 📖
+1. **Loads your PDFs** 
+2. **Splits them into chunks** 
+3. **Creates searchable embeddings** 
+4. **Answers your questions** 
+5. **Shows the source documents** 
 
 ---
 
@@ -48,7 +48,7 @@ print(answer)
 
 ---
 
-## 📂 Simple Setup
+## Simple Setup
 
 ```
 project/
@@ -62,7 +62,7 @@ project/
 
 ---
 
-## 🎯 Key Features
+##  Key Features
 
 ✅ **100% Local** - No cloud, no API keys  
 ✅ **Fast** - Answers in seconds  
@@ -72,7 +72,7 @@ project/
 
 ---
 
-## 📊 How It Works
+##  How It Works
 
 ```
 PDFs → Split into chunks → Create embeddings 
@@ -82,7 +82,7 @@ PDFs → Split into chunks → Create embeddings
 
 ---
 
-## 💻 Usage Examples
+##  Usage Examples
 
 ### Simple Query
 ```python
@@ -107,7 +107,7 @@ print(result['sources'])  # Shows which documents were used
 
 ---
 
-## ⚙️ Configuration
+##  Configuration
 
 Edit `config.yaml`:
 
@@ -126,7 +126,7 @@ temperature: 0.3      # How creative (0.0=focused, 1.0=creative)
 
 ---
 
-## 🧪 Test It
+## Test It
 
 ```bash
 # Run tests
@@ -138,7 +138,7 @@ python benchmark.py
 
 ---
 
-## 🐛 Troubleshooting
+##  Troubleshooting
 
 | Problem | Solution |
 |---------|----------|
@@ -149,7 +149,7 @@ python benchmark.py
 
 ---
 
-## 📈 Performance
+##  Performance
 
 - **Embedding time**: 4-5 seconds (first run)
 - **Query time**: 3-10 seconds per question
@@ -158,7 +158,7 @@ python benchmark.py
 
 ---
 
-## 📦 Project Structure
+## Project Structure
 
 ```
 ├── rag_pipeline.py       # Main RAG system
@@ -171,7 +171,7 @@ python benchmark.py
 
 ---
 
-## 🎓 Learn More
+##  Learn More
 
 - **RAG Basics**: Retrieval + Generation = Better answers
 - **Embeddings**: Convert text to numbers for searching
@@ -180,16 +180,5 @@ python benchmark.py
 
 ---
 
-## 📝 License
-
-MIT - Use freely, modify as needed
-
----
-
-## 🤝 Contributing
-
-Found a bug? Have an idea? Create an issue!
-
----
 
 **Start by putting your PDFs in the `pdfs/` folder and running the Quick Start!** 🚀
